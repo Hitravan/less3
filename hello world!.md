@@ -6,6 +6,10 @@ hello world
 
 **полужирный**
 
+* 1
+* 2
+* 3
+
 a esli tak
 
 vrode ponyal
