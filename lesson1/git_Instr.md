@@ -93,7 +93,7 @@
 
 ![текст](ссылка на изображение)
 
-![Логотип GeekBrains](https://conicheva84.ru/wp-content/uploads/2018/12/geekbrains_2.jpg)
+![Логотип GeekBrains](geek.jpg)
 
 ## ***Добавить таблицу***
 
